@@ -2,7 +2,7 @@
 
 Use the yml file to create environment. 
 
-Recommended step :  get all the files from google drive, unzip zip files (https://drive.google.com/drive/folders/1EiFT7ZjsaKea1Hw-8eZwtyVO1ShS5Fh3?usp=sharing)
+Recommended step :  get all the files from google drive, unzip zip files in the root directory of this repo. (https://drive.google.com/drive/folders/1EiFT7ZjsaKea1Hw-8eZwtyVO1ShS5Fh3?usp=sharing)
 
 This project has 2 main files to run.
 1. data_prep.ipynb : - 
