@@ -25,3 +25,11 @@ Data preparation step has already added all the required files.
 you can either.
 1. Run the model and save .h5 files again or
 2. skip directly to load model section of every model, load the model and check the results.
+
+
+
+In short the steps are:
+1. create environment using .yml file.
+2. Access files from google drive, unzip the zip files in root directory.
+3. Run data_prep.ipynb ( you can skip image generation block).
+4. Run modeling.ipynb.
